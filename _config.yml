@@ -24,13 +24,13 @@ repository               : "vgiouli/vgiouli.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  author:
+  name             : "Voula Giouli"
+  pronouns         : "she/her" 
+  bio              : "Computational Linguist, Assistant Professor"
+  employer: "Aristotle University of Thessaloniki"
+  location: "Greece"
+  email: "pgiouli@del.auth.gr"
 
   # Academic websites
   academia         : # URL
